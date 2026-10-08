@@ -67,11 +67,6 @@ Building scalable applications and exploring the intersection of development, cl
 
 </div>
 
----
-
-
-
----
 
 ## ✍️ Dev Quote
 
