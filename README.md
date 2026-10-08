@@ -69,27 +69,7 @@ Building scalable applications and exploring the intersection of development, cl
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananthakrishnanmzen&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ananthakrishnanmzen/Ananthakrishnanmzen/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ananthakrishnanmzen/Ananthakrishnanmzen/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ananthakrishnanmzen/Ananthakrishnanmzen/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
