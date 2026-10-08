@@ -1,6 +1,6 @@
 <!-- header -->
 <div align="center">
-// print("Hello, World!")
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="coding gif" />
 
 # Hey I'm Ananthakrishnan M. 
@@ -9,8 +9,8 @@
 
 Building scalable applications and exploring the intersection of development, cloud architecture, and cybersecurity. Currently deep in Linux sysadmin, containerization, and competitive hackathons.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthakrishnan-m-zen-9b7892321)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ananthakrishnanmzen)
 
 </div>
 
@@ -58,12 +58,12 @@ Building scalable applications and exploring the intersection of development, cl
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&theme=neon&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=Ananthakrishnanmzen&theme=neon&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ananthakrishnanmzen&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=neon&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Ananthakrishnanmzen&theme=neon&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -73,7 +73,7 @@ Building scalable applications and exploring the intersection of development, cl
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananthakrishnanmzen&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -83,11 +83,10 @@ Building scalable applications and exploring the intersection of development, cl
 
 <div align="center">
 
-<!-- Note: To make the snake work, you need to set up a GitHub Action. Instructions below! -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ananthakrishnanmzen/Ananthakrishnanmzen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ananthakrishnanmzen/Ananthakrishnanmzen/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ananthakrishnanmzen/Ananthakrishnanmzen/output/github-snake.svg" />
 </picture>
 
 </div>
